@@ -13,6 +13,8 @@ Product Release : 3.0 ||
 Android SDK : Jellybean 4.3.1 or up ||
 Programming Language Related : C# ||
 
+Please unzip the zip files and rar files to obtain the required project folders in the destination folder
+
 Please test the final build apk file via : https://banuka.itch.io/flat-land
 
 This is a fully develped by Banuka Ambegoda /Me
